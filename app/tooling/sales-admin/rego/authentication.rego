@@ -1,4 +1,4 @@
-package ardan.rego
+package dmitry.rego
 
 default auth = false
 
